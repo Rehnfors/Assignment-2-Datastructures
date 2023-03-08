@@ -1,3 +1,0 @@
-/home/jesper/projekt/assignment 2/build/CMakeFiles/FileCrawler.dir
-/home/jesper/projekt/assignment 2/build/CMakeFiles/edit_cache.dir
-/home/jesper/projekt/assignment 2/build/CMakeFiles/rebuild_cache.dir
